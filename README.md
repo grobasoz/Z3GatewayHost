@@ -15,3 +15,5 @@ __Z3gatewayHost -n1 -pCOMx__ for XOn/XOff flow software control
 
 Alternatively run 
 __Z3GatewayHost -h__ to get a list of command line options.
+
+Address table size is set to 100.
