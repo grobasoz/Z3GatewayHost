@@ -49,7 +49,7 @@ __MpZ3TcCustomTcHost.exe__
 <br>
 
 
-Normally run in Cygwin64, some additional files have been added to run from a Windows folder (tested with Win10-64 only). 
+__Normally run in Cygwin64, some additional files have been added to run from a Windows folder (tested with Win10-64 only)__ 
 
 Download/Clone folder and run with command
 
@@ -61,5 +61,3 @@ __Z3gatewayHost_xxx -n1 -pCOMx__ for XOn/XOff flow software control
 
 Alternatively run 
 __Z3GatewayHost_xxx -h__ to get a list of command line options.
-
->>>>>>> 9ba55a0a3f7a2112073a7f9921f46fb730268cc0
