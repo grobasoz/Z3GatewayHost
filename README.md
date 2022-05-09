@@ -28,3 +28,6 @@ __Z3gatewayHost_xxx -n1 -pCOMx__ for XOn/XOff flow software control
 
 Alternatively run 
 __Z3GatewayHost_xxx -h__ to get a list of command line options.
+
+
+__Note: These programs require a local MQTT broker to function fully__
