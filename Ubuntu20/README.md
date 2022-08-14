@@ -23,6 +23,7 @@ __Z3GatewayHost_710__
   - Binding Table Size = 32
 
 <hr>
+
 ### Example of Run Command.
 __Z3GatewayHost_xxx -fx -b115200 -p/dev/ttyUSB0__
 
